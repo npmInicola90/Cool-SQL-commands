@@ -26,8 +26,8 @@ CREATE TABLE `users` (
 
 
 INSERT INTO `users` (`ID`, `user_login`, `user_pass`, `user_nicename`, `user_email`) VALUES
-(1, 'jsmith', '0832c1202da8d382318e329a7c133ea0', 'jared', 'jsmith@gmail.com'),
-(2, 'castig', '$P$Bq.VlkwuWFu4BIktX.olT2eyCVwXv1.', 'chris', 'chris@gmail.com'),
+(1, 'asi', '0832c1202da8d382318e329a7c133ea0', 'jared', 'asi@gmail.com'),
+(2, 'yomio', '$P$Bq.VlkwuWFu4BIktX.olT2eyCVwXv1.', 'chris', 'yomio@gmail.com'),
 (3, 'mattan', '5f4dcc3b5aa765d61d8327deb882cf99', 'mattan', 'mattan@gmail.com'),
 (4, 'zuck', 'f9cQUpQ34BIVlkkt', 'mark', 'zuck@gmail.com'),
 (5, 'jamie', 'lH0WC8yboMj/bjt4f3Km/', 'jamie', 'jamie@gmail.com'),
