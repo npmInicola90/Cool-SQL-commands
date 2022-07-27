@@ -1,0 +1,2 @@
+INSERT INTO users (ID, user_login, user_pass, user_nicename, user_email)
+VALUES ('Michael', 'andicysncnu736#*@=#;+8#61*@)9£82728497', 'Mikey', 'Michael@gmail.com');
