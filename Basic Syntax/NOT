@@ -1,0 +1,2 @@
+SELECT * FROM users
+WHERE NOT user_email='asi@gmail.com';
