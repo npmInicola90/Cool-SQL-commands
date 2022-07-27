@@ -1,0 +1,3 @@
+SELECT users_login
+FROM users
+WHERE users_pass IS NULL;
