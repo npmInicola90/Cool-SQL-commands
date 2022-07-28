@@ -1,0 +1,12 @@
+SELECT * FROM users
+WHERE users_nicename LIKE 'j%';
+ 
+--------------------------------
+
+SELECT * FROM users
+WHERE users_nicename LIKE '%o'
+
+--------------------------------
+
+SELECT * FROM users
+WHERE users_nicename LIKE '%a%';
