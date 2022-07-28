@@ -26,14 +26,14 @@ CREATE TABLE `users` (
 
 
 INSERT INTO `users` (`ID`, `user_login`, `user_pass`, `user_nicename`, `user_email`) VALUES
-(1, 'asi', '0832c1202da8d382318e329a7c133ea0', 'jared', 'asi@gmail.com'),
-(2, 'yomio', '$P$Bq.VlkwuWFu4BIktX.olT2eyCVwXv1.', 'chris', 'yomio@gmail.com'),
-(3, 'mattan', '5f4dcc3b5aa765d61d8327deb882cf99', 'mattan', 'mattan@gmail.com'),
-(4, 'zuck', 'f9cQUpQ34BIVlkkt', 'mark', 'zuck@gmail.com'),
-(5, 'jamie', 'lH0WC8yboMj/bjt4f3Km/', 'jamie', 'jamie@gmail.com'),
-(6, 'wei', '$P$B20YTQ5OHff9cQUpQ4fKNBecfZnYGy.', 'wei', 'wei@gmail.com'),
-(7, 'caraadams', 'A7Cx1zD7cbeCWaAOUu/eYyiRU1', 'cara', 'caraadams@gmail.com'),
-(8, 'ophir', '$P$B0YwbF0r8r7CHEq/yzhRoc6BolpKeD.', 'ophir', 'ophir@hotmail.com');
+(1, 'asi', '67655', 'jared', 'asi@gmail.com'),
+(2, 'yomio', '3726157363', 'chris', 'yomio@gmail.com'),
+(3, 'mattan', '7886', 'mattan', 'mattan@gmail.com'),
+(4, 'zuck', '353', 'mark', 'zuck@gmail.com'),
+(5, 'jamie', '637262', 'jamie', 'jamie@gmail.com'),
+(6, 'wei', '2716172', 'wei', 'wei@gmail.com'),
+(7, 'caraadams', '726252', 'cara', 'caraadams@gmail.com'),
+(8, 'ophir', '2726261', 'ophir', 'ophir@hotmail.com');
 
 
 ALTER TABLE `users`
