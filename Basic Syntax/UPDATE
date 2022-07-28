@@ -1,0 +1,3 @@
+UPDATE users
+SET user_nicename= 'jared', user_pass= 'siducyahs83648£(dicusj8373('
+WHERE ID = yomio
