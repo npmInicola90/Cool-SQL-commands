@@ -1,0 +1,2 @@
+SELECT MIN(user_login) AS SmallestLoginNumber
+FROM users; 
