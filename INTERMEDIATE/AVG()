@@ -1,0 +1,2 @@
+SELECT AVG(user_login)
+FROM users;
