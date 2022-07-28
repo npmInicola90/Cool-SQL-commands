@@ -1,0 +1,2 @@
+SELECT COUNT(user_login)
+FROM users;
