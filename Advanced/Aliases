@@ -1,1 +1,2 @@
-
+SELECT user_nicename AS name, ID AS pass
+FROM Customers;
