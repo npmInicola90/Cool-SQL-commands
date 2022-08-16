@@ -1,2 +1,4 @@
-# SQL-commands
-Here are a lot of SQL commands
+certification and expertise 
+
+
+[FILE_3260.pdf](https://github.com/npmInicola90/Cool-SQL-commands/files/9349728/FILE_3260.pdf)
